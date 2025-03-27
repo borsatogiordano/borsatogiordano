@@ -1,4 +1,4 @@
-## Giordano Borsato - Desenvolvedor BackEnd
+## Giordano Borsato - Desenvolvedor FullStack
 👋 Olá! Meu nome é Giordano, sou desenvolvedor backend apaixonado por tecnologia e aprendizado contínuo. Atualmente, estou me aprofundando nas seguintes tecnologias:
   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> Java
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> Javascript
@@ -12,7 +12,7 @@
 <div>
   🌱 Estou sempre buscando aprender e aprimorar minhas habilidades em desenvolvimento de software.<br>
   💼 Atuo no desenvolvimento de soluções BackEnd, criando sistemas eficientes e robustos que conectam a experiência do usuário às funcionalidades do computador.<br>
-  🎓 Tenho 23 anos e estou me aprofundando atualmente em Java Spring.<br>
+  🎓 Tenho 23 anos e estou me aprofundando atualmente em Node.js e Typescript.<br>
 </div><br>
 
 
@@ -24,5 +24,4 @@
 <div> 
   <a href="https://www.instagram.com/borsatogiordano_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/borsatogiordano_" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
