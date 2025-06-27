@@ -2,20 +2,11 @@
 
 👋 Olá! Meu nome é Giordano, sou desenvolvedor fullstack apaixonado por tecnologia e aprendizado contínuo. Atualmente, estou me aprofundando nas seguintes tecnologias:
 
-<div style="display: flex; gap: 20px; align-items: center; flex-wrap: wrap;">
-  <div align="center">
-    <img alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"><br>TypeScript
-  </div>
-  <div align="center">
-    <img alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"><br>Node.js
-  </div>
-  <div align="center">
-    <img alt="Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"><br>Next.js
-  </div>
-  <div align="center">
-    <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"><br>React
-  </div>
-</div>
+<img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> TypeScript &nbsp;&nbsp;
+<img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> Node.js &nbsp;&nbsp;
+<img align="center" alt="Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"> Next.js &nbsp;&nbsp;
+<img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> React
+
 
 ## Sobre mim
 <div>
