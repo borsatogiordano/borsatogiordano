@@ -26,7 +26,7 @@
 </div>
 
 ## Contador de Visitas
-<div align="center">
- <p align="centre"><b>Contador de visitas</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{borsatogiordano}/count.svg" /></p> 
+<div align="left">
+ <p align="left"><b>Contador de visitas</b></p>  
+  <p align="left"><img align="center" src="https://profile-counter.glitch.me/{borsatogiordano}/count.svg" /></p> 
 </div>
