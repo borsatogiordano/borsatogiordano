@@ -17,6 +17,5 @@ Hello! My name is Giordano, I'm a fullstack developer passionate about technolog
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borsatogiordano&layout=compact&theme=blue-green"/>
 </div>
 <div> 
-  <a href="https://www.instagram.com/borsatogiordano_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/borsatogiordano_" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
